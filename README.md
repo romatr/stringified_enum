@@ -1,0 +1,1 @@
+# stringified_enum
